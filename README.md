@@ -254,7 +254,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **VaLR: Vision-aligned Latent Reasoning for Multi-modal Large Language Model**  
 *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[homepage](https://rootyjeon.github.io/valr/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VaLR-blue) ![](https://img.shields.io/badge/Multimodal-green)
 
-### Long-to-Short Chain-of-Thought
+### Long-to-Short Chain-of-Thought LLL
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
   *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/COLM2024-orange)
